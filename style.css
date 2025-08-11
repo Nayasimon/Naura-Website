@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+section {
+  padding: 20px 20px;
+}
+
+
+header,footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.member {
+  text-align: center;
+  width: 22%;
+  margin-bottom: 50px; 
+}
+
+.member p {
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+.hero {
+    height: 100vh; /* full screen */
+    background: url('img.jpg') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 20px;
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1, h2, h5 {
+  font-weight: 700;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 0 15px;
+}
+
+.menu-item{
+    border: 2px solid black;
+}
+
+h2{
+    text-align: center;
+    margin: 50px 0;
+}
+
+p{
+    text-align: center;
+}
+
+
+.product-img{
+    display: flex;
+    justify-content: center;
+    gap:40px;
+}
+.product-img img{
+    width:auto;
+    height:auto;
+}
+
+.face{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:20px;
+    max-width:1250px;
+    margin:0 auto;
+}
+
+.face img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+footer{
+    position:relative;
+    bottom:0;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+    background-color: #111;
+    color: #eee;
+    padding: 40px 20px;
+
+}
+
+footer .info{
+    text-align: left;
+    position:relative;
+}
+
+.mission-vision-container{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    padding:40px;
+}
+.mission, .vision{
+    width:48%
+}
+
+h2 {
+  margin-bottom: 30px;
+
+}
+
+a.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+a.button:hover {
+  background-color: #0056b3;
+
+}
+
+section:nth-of-type(even) {
+  background-color: #f9f9f9;
+}
+section:nth-of-type(odd) {
+  background-color: #ffffff;
+}
