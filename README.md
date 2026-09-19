@@ -1,50 +1,52 @@
 # Naura Website
 
-This is the website for Naura, our SHAD design project. Our idea was to explore sodium-ion batteries as an option for electric vehicles and present it as a business concept.
+This website presents Naura, a business concept developed for our SHAD design project. Our team explored sodium-ion batteries as an option for electric vehicles and created the site to explain the idea and introduce the team.
 
-The website puts our idea, product images, and team in one place. Naura is a student project, so the descriptions on the site are part of our pitch rather than a finished battery product.
+Naura is a student concept project. The product descriptions reflect our proposal, not a commercially available battery.
 
-## What's on the site
+## Website features
 
-- An introduction to Naura and the idea behind it
-- Product concept images
-- Our mission and vision
+- Introduction to Naura and the proposed battery concept
+- Product visuals
+- Mission and vision statements
 - Team photos and roles
-- A link to the business plan
+- Link to the business plan
 
 ## Technical skills
 
-- **HTML:** building the page sections, navigation links, team profiles, and product image sections.
-- **CSS:** styling colours, spacing, text, backgrounds, and buttons.
-- **Flexbox:** arranging the header, product images, mission and vision sections, and team cards.
-- **CSS effects:** adding smooth scrolling and button hover transitions.
-- **Google Fonts:** adding custom fonts to the website.
-- **Image layout:** sizing and positioning the logo, product visuals, and team photos.
-- **GitHub and GitHub Pages:** storing the code and sharing the website online.
+- **HTML:** page structure, navigation links, team profiles, and product sections.
+- **CSS:** typography, colours, spacing, backgrounds, and buttons.
+- **Flexbox:** layouts for the header, product images, team cards, and mission and vision sections.
+- **CSS effects:** smooth scrolling and button hover transitions.
+- **Google Fonts:** adding custom fonts.
+- **GitHub and GitHub Pages:** storing the source code and publishing the website.
 
-The site runs with HTML and CSS, without a backend or database.
+The site uses HTML and CSS and does not require a backend or database.
 
-## Opening it
+## View the website
 
-[Open the website](https://nayasimon.github.io/Naura-Website/), or try it on your computer:
+[Open the website](https://nayasimon.github.io/Naura-Website/)
 
-1. Click **Code** on GitHub, then **Download ZIP**.
+To view it locally:
+
+1. Select **Code** on GitHub, then **Download ZIP**.
 2. Extract the folder.
-3. Open `index.html` in your browser.
+3. Open `index.html` in a browser.
 
-Keep `style.css` and the images in the same folder as `index.html`. You don't need to install anything. The Google Fonts and business plan link need an internet connection.
+Keep `style.css` and the images in the same folder as `index.html`. No installation is required. Google Fonts and the business plan link require an internet connection.
 
-## Files
+## Project files
 
-- `index.html` has the page content and sections.
-- `style.css` controls the layout, colours, and spacing.
-- The image files include the logo, product visuals, and team photos.
+- `index.html`: page content and sections.
+- `style.css`: layout, colours, and spacing.
+- Image files: logo, product visuals, and team photos.
 
-## Things to improve
+## Future improvements
 
-A few things that could make the site better are a cleaner phone layout, more detail about the research behind the idea, and better image descriptions.
+- Improve the layout on smaller screens
+- Add more detail about the research behind the concept
+- Add clearer image descriptions
 
-## Team project
+## Team
 
-Naura was a group project. This repository contains the website used to present our idea, and the team members are listed on the page.
-
+Naura was a group project. This repository contains the website used to present our proposal, and the team members are listed on the site.
