@@ -12,9 +12,17 @@ The website puts our idea, product images, and team in one place. Naura is a stu
 - Team photos and roles
 - A link to the business plan
 
-## What I used
+## Technical skills
 
-The site is built with HTML and CSS. It uses Google Fonts for the text, and all the images are stored in the repository. There's no backend or database.
+- **HTML:** building the page sections, navigation links, team profiles, and product image sections.
+- **CSS:** styling colours, spacing, text, backgrounds, and buttons.
+- **Flexbox:** arranging the header, product images, mission and vision sections, and team cards.
+- **CSS effects:** adding smooth scrolling and button hover transitions.
+- **Google Fonts:** adding custom fonts to the website.
+- **Image layout:** sizing and positioning the logo, product visuals, and team photos.
+- **GitHub and GitHub Pages:** storing the code and sharing the website online.
+
+The site runs with HTML and CSS, without a backend or database.
 
 ## Opening it
 
